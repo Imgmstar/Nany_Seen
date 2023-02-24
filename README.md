@@ -5,7 +5,7 @@
 <p align="center">
     <img src="https://s2.uupload.ir/files/img_20230208_141501_035_f545.jpg" alt="NanyRubika" width="128">
     <br>
-    <b>Library NanyRubika</b>
+    <b>Seen Zan Rubika</b>
     <br>
 </p>
 
