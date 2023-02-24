@@ -1,4 +1,4 @@
-## NanyRubika
+## Nanymous
 
 > Seen Zan Robot For Rubika
 
